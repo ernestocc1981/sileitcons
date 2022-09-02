@@ -1,0 +1,17 @@
+[Query 1: dbo.TBL_INSTALACIONES]
+Left=190
+Top=32
+Height=251
+Width=206
+[Query 1: dbo.TBL_EQUIPOS]
+Left=8
+Top=20
+Height=280
+Width=167
+[Diagram properties]
+SQL=""SELECT *"#13#10"FROM"#13#10"  dbo.REL_INSTALACIONES_SISTEMAS"#13#10"""
+[Query 1: dbo.REL_INSTALACIONES_SISTEMAS]
+Left=397
+Top=20
+Height=78
+Width=270
